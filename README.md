@@ -19,8 +19,8 @@
 
 <h2 id=objetivo>:scroll: Objective</h2>
 The aim of the project is to share the themes I use on Windows.<br>
-The wallpapers were collected from the Internet.
-Dome and Tiger themes are made from the Mac Os wallpapers.
+Dome and Tiger themes are made from the Mac Os wallpapers.<br>
+The Purple theme was made to be more generic. I love that.
 
 Included themes:
 - Dome Theme <!-- #6B69D6 -->
