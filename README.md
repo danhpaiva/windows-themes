@@ -24,6 +24,7 @@ The Purple theme was made to be more generic. I love that.
 
 Included themes:
 - Dome Theme <!-- #6B69D6 -->
+- Flamingo Theme <!-- #CC3D29 -->
 - Purple Theme <!-- #60548C -->
 - Tiger Theme<!-- #5B74A6 --> 
 
