@@ -34,6 +34,8 @@ Included themes:
 2. Go to the "themes" folder
 3. Double click on the desired theme
 
+Note: Tested on Windows 10
+
 <h2 id=tecnologias>:toolbox: Technology</h2>
 
 The following tools were used in the construction of the project:
